@@ -32,7 +32,7 @@
 
 ### Social Platforms:
 
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://dsc.gg/sena/ ]
+<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://dsc.gg/sena
 <br />
 
 
