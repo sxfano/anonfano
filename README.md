@@ -22,7 +22,7 @@
 ```diff
 Info
    👾Currently Learning:
-     👽c++ 
+     👽python
      👽lua
     
 ```
