@@ -23,7 +23,7 @@
 Info
    👾Currently Learning:
      👽c++ 
-     👽python
+     👽lua
     
 ```
 <h3 align="left">Languages and Tools:</h3>
