@@ -12,11 +12,6 @@
 
 <h1 align="center">Hi <img src="https://media.discordapp.net/stickers/975553715434037318.webp?size=160" width="100px" />, I'm Fano</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+|anonfano/sena.gg" />
-</p>
-
-
 <img align="left" height="200" src="https://tenor.com/benot.gif"/>
 
 ```diff
