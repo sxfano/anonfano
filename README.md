@@ -29,13 +29,6 @@ Info
   <a href="">
     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
-### Social Platforms:
-
-<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://dsc.gg/sena
-<br />
-
-
-
 ### My Stats !
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anonfano&count_private=true&show_icons=true?theme=buefy)
 
