@@ -18,6 +18,7 @@
 Info
    👾Currently Learning:
      👽c#
+     👽lua
     
 ```
 <h3 align="left">Languages and Tools:</h3>
