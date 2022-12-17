@@ -31,10 +31,10 @@ Info
     <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 ### My Stats !
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anonfano&count_private=true&show_icons=true?theme=buefy)
+![Fano's github stats](https://github-readme-stats.vercel.app/api?username=sxfano&count_private=true&show_icons=true?theme=buefy)
 
 
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/anonfano/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/sxfano/count.svg)
 
 <br />
